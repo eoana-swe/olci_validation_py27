@@ -1,0 +1,8 @@
+satpy
+numpy
+matplotlib
+basemap
+
+scipy
+netcdf4
+pandas

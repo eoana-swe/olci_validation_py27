@@ -1,0 +1,13 @@
+Value	Description
+C:\shd\python\utveckling\shark_files\sharkweb_data_utf-8.txt	sharkpath
+C:\shd\python\utveckling\olci_level_2	eo_path
+56	arealimit lat1
+60	arealimit lat2
+16	arealimit lon1
+20	arealimit lon2
+1	binstep
+40	maxchl_xaxis
+chl_oc4me	chl_param
+300	grid_size
+olci_l2	reader
+olci	sensor
